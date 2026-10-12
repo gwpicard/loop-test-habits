@@ -1,0 +1,7 @@
+{
+  "language": "python",
+  "allowedDomains": [
+    "pypi.org",
+    "files.pythonhosted.org"
+  ]
+}
